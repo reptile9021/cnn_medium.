@@ -7,3 +7,5 @@ https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-pyt
 this version is a fork based on the script from the above blog.
 Add model.save in train
 
+train & test data can be downloaded from:
+https://drive.google.com/drive/folders/1XaFM8BJFligrqeQdE-_5Id0V_SubJAZe?usp=sharing
